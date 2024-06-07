@@ -1,2 +1,2 @@
-# Ra-unalne-mre-e
+# Racunalne_mreze
 Laboratorijske vježbe iz Računalnih mreža
